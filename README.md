@@ -1,11 +1,11 @@
-# 🚀 Professional Portfolio (Next.js)
+#  Professional Portfolio (Next.js)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).  
 It serves as my **professional portfolio website**, showcasing AI/ML projects, technical skills, and career objectives.
 
 ---
 
-## 📌 Project Purpose
+##  Project Purpose
 The goal of this portfolio is to consolidate all bootcamp and personal projects into a **clean, professional showcase**.  
 It highlights:
 - Featured projects with live demos
@@ -15,7 +15,7 @@ It highlights:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Framework:** Next.js 14 (App Router)
 - **UI Library:** Chakra UI
 - **Styling:** Tailwind CSS (optional) + custom CSS modules
@@ -25,7 +25,7 @@ It highlights:
 
 ---
 
-## ⚙️ Getting Started
+##  Getting Started
 
 First, run the development server:
 
